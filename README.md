@@ -62,5 +62,5 @@ A **CTG Heart Failure Monitoring System** that processes Heart Rate Variability 
 
 For any questions or suggestions, feel free to reach out:
 
-- **Name**: Yassien Tawfik
-- **Email**: Yassien.m.m.tawfik@gmail.com
+- **Name**: Nancy Mahmoud
+- **Email**: Nancy.abdelfattah03@eng-st.cu.edu.eg
